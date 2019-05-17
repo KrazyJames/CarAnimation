@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarAnimation</string>
+    <string name="title_activity_maps">Uberga</string>
+    <string name="directions_api_key">AIzaSyDiIRVTefypIwHwWQuAolA_Yrjs_a_WHyE</string>
+</resources>
